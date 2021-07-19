@@ -1,0 +1,5 @@
+1. 하드웨어 연결 (arduino uno, esp8266 등 사용)
+2. 소프트웨어 코딩 (arduino ide 사용)
+3. http://ai2.appinventor.mit.edu/#6732168713076736 
+-> mit inventor 에서 스마트폰으로 명령ui 전달
+4. 스마트폰에서 ip주소 입력후 제어 (ip주소는 시리얼 모니터를 통해서 확인)
